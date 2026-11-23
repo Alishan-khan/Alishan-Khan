@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Alishan Khan
 
-<!--
-**Alishan-khan/Alishan-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full Stack Developer | B.Tech Student
 
-Here are some ideas to get you started:
+I'm passionate about building web applications and learning modern technologies. I enjoy solving problems and turning ideas into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 B.Tech student at Siddhartha Institute of Engineering and Technology
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently improving my development skills
+- 🎯 Goal: Become a professional Full Stack Developer
+
+### 🛠️ Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
+### 🚀 My Projects
+
+- **Wanderlust** – My main web development project.
+- **Instagram Authentication Project** – An Instagram-style project with authentication.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/Alishan-kh
+- Email: khanalishan7250@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
